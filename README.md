@@ -2,7 +2,7 @@
 
 A sophisticated computer vision and signal processing system engineered for individuals with profound motor neuron diseases (like ALS or advanced-stage paralysis). It enables users to "speak" pre-defined phrases by performing intentional, duration-specific eye blinks, bridging the gap for non-invasive assistive communication.
 
-![Project Demo](YOUR_GIF_URL)
+![Project Demo](https://github.com/Kunal2005jan15/EyeBlinkToSpeech/blob/main/assets/Screenshot%20(203).png)
 
 ---
 
