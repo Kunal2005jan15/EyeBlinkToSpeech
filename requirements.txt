@@ -1,0 +1,12 @@
+# Eye-Blink-to-Speech — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+# Core computer vision & ML
+opencv-python>=4.9.0
+mediapipe
+
+# Numerical computing
+numpy>=1.26.0
+
+# Text-to-speech (cross-platform)
+pyttsx3>=2.90
