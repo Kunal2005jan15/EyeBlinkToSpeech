@@ -6,7 +6,7 @@ A sophisticated computer vision and signal processing system engineered for indi
 
 ---
 
-## 🚀 Key Technological Innovations (The Data Science Pitch)
+## 🚀 Key Technological Innovations
 Recruiters: This project goes beyond simple object detection. It includes advanced implementations of the following concepts:
 
 * **Real-time 468 Landmark Tracking (MediaPipe):** Uses **MediaPipe Face Mesh** to track facial structure with high fidelity (468 landmarks), significantly outperforming Haar Cascade or Dlib-based methods.
